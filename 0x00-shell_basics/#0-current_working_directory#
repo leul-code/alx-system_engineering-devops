@@ -1,0 +1,3 @@
+l#!/bin/bash
+echo "the PWD is : ${pwd}"
+
